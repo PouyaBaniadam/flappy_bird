@@ -405,7 +405,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 10.75
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -759,10 +759,7 @@ MonoBehaviour:
   gameOverScreen: {fileID: 1664387298}
   soundEffectSource: {fileID: 946512833}
   jumpSound1: {fileID: 8300000, guid: 2a618c322aee6a14aa4b4800368271ba, type: 3}
-  jumpSound2: {fileID: 8300000, guid: 3bad02fd1516fa0449b3bec6142badb0, type: 3}
-  jumpSound3: {fileID: 8300000, guid: 06a8c7ad96005ab4c8b8b7f1034543cf, type: 3}
   fartSound: {fileID: 8300000, guid: 463c9973b404a7d409a6fbe8e9bc9a30, type: 3}
-  isStartButtonPressed: 0
 --- !u!4 &946512832
 Transform:
   m_ObjectHideFlags: 0
