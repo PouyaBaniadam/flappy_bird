@@ -11,7 +11,7 @@ A modern recreation of the classic **Flappy Bird** game, built with **Unity 6** 
 
 ## 📸 Screenshots & Demo
 
-[Gameplay](./screenshots/gameplay.png)
+![Gameplay](./screenshots/gameplay.png)
 
 ---
 
